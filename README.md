@@ -3,21 +3,21 @@
 </p>
 
 # 🎮 Simple Games
-**TENTANG**
+# TENTANG
  > Game ini di ciptakan oleh programer pemula yang bernama rooxJSphire
  > Tujuan geme ini di ciptakan hanya untuk bersenang-senang bukan untuk tujuan ilegal.
  
  ---
  
-**CARA RUN**
-  **Linux**
+# CARA RUN
+ # Linux
     > sudo apt update
     > sudo apt install git
     > sudo apt install python3 python3-pip
     > git clone [link_repo]
     > cd game
     > python3 main.py
-  **Termux**
+ # Termux
     > pkg update
     > pkg install python git
     > pkg install git
@@ -27,13 +27,13 @@
     
 ---
  
-**🏷️ Badges**
+# 🏷️ Badges
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)  
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Termux%20%7C%20Windows-green)  
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
-**PERINGATAN**
+# PERINGATAN
 > Jika anda kalah sistem geme dapat manghapus file projek yang ada di terminal anda
 > Sebaiknya berhati-hati saat bermain geme ini karna developer tidak bertangung jawab atas apa saja yang terjadi

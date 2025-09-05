@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/abcd123.png" alt="Banner Game" width="800"/>
+  <img src="https://k.top4top.io/p_3535lcxwq0.jpg" alt="Banner Game" width="800"/>
 </p>
 
 # 🎮 Simple Games
@@ -11,19 +11,19 @@
  
 # CARA RUN
  # Linux
-    > sudo apt update
-    > sudo apt install git
-    > sudo apt install python3 python3-pip
-    > git clone [link_repo]
-    > cd game
-    > python3 main.py
+     sudo apt update
+     sudo apt install git
+     sudo apt install python3 python3-pip
+     git clone [link_repo]
+     cd game
+     python3 main.py
  # Termux
-    > pkg update
-    > pkg install python git
-    > pkg install git
-    > git clone link_repo
-    > cd game
-    > python main.py
+     pkg update
+     pkg install python git
+     pkg install git
+     git clone link_repo
+     cd game
+     python main.py
     
 ---
  

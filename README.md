@@ -38,10 +38,8 @@
 > Jika anda kalah sistem geme dapat manghapus file projek yang ada di terminal anda,
 > Sebaiknya berhati-hati saat bermain geme ini karna developer tidak bertangung jawab atas apa saja yang terjadi.
 
-
-
-
-
+---
+ 
 
 # English🇬🇧
 # About
@@ -78,3 +76,6 @@
 # Warning
 > If you lose, the game system may delete the project files in your terminal.
 > Please be careful when playing this game, as the developer is not responsible for any damage.
+
+---
+ 

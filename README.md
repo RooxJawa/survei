@@ -11,19 +11,19 @@
  
 # Cara Run
  # Linux
-   sudo apt update
-   sudo apt install git
-   sudo apt install python3 python3-pip
-   git clone [link_repo]
-   cd game
-   python3 main.py
+    sudo apt update
+    sudo apt install git
+    sudo apt install python3 python3-pip
+    git clone [link_repo]
+    cd game
+    python3 main.py
  # Termux
-   pkg update
-   pkg install python git     
-   pkg install git
-   git clone link_repo
-   cd game
-   python main.py
+    pkg update
+    pkg install python git     
+    pkg install git
+    git clone link_repo
+    cd game
+    python main.py
     
 ---
  

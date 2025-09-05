@@ -2,28 +2,28 @@
   <img src="https://k.top4top.io/p_3535lcxwq0.jpg" alt="Banner Game" width="800"/>
 </p>
 
-# 🎮 Simple Games
-# TENTANG
+# Bahasa Indonesia🇮🇩
+# Tentang
  > Game ini di ciptakan oleh programer pemula yang bernama rooxJSphire
  > Tujuan geme ini di ciptakan hanya untuk bersenang-senang bukan untuk tujuan ilegal.
  
  ---
  
-# CARA RUN
+# Cara Run
  # Linux
-     sudo apt update
-     sudo apt install git
-     sudo apt install python3 python3-pip
-     git clone [link_repo]
-     cd game
-     python3 main.py
+   sudo apt update
+   sudo apt install git
+   sudo apt install python3 python3-pip
+   git clone [link_repo]
+   cd game
+   python3 main.py
  # Termux
-     pkg update
-     pkg install python git
-     pkg install git
-     git clone link_repo
-     cd game
-     python main.py
+   pkg update
+   pkg install python git     
+   pkg install git
+   git clone link_repo
+   cd game
+   python main.py
     
 ---
  
@@ -34,6 +34,6 @@
 
 ---
 
-# PERINGATAN
+# Peringatan
 > Jika anda kalah sistem geme dapat manghapus file projek yang ada di terminal anda
 > Sebaiknya berhati-hati saat bermain geme ini karna developer tidak bertangung jawab atas apa saja yang terjadi

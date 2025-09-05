@@ -14,14 +14,14 @@
     sudo apt update
     sudo apt install git
     sudo apt install python3 python3-pip
-    git clone [link_repo]
+    git clone https://github.com/RooxJawa/game
     cd game
     python3 main.py
  # Termux
     pkg update
     pkg install python git     
     pkg install git
-    git clone link_repo
+    git clone https://github.com/RooxJawa/game
     cd game
     python main.py
     
@@ -38,9 +38,11 @@
 > Jika anda kalah sistem geme dapat manghapus file projek yang ada di terminal anda,
 > Sebaiknya berhati-hati saat bermain geme ini karna developer tidak bertangung jawab atas apa saja yang terjadi.
 
+
+
 # English🇬🇧
 # About
-> This game was created by a novice programmer named rooxJSphire.
+> This game was created by a novice programmer named rooxJSphire,
 > This game is intended solely for fun and not for any illegal purposes.
 
 ---
@@ -50,15 +52,15 @@
     sudo apt update
     sudo apt install git
     sudo apt install python3 python3-pip
-    git clone [link_repo]
-    game CDs
+    git clone https://github.com/RooxJawa/game
+    cd game
     python3 main.py
  # Termux
     pkg update
     pkg install python git     
     pkg install git
-    git clone link_repo
-    game CDs
+    git clone https://github.com/RooxJawa/game
+    cd game
     python main.py
     
 ---

@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://k.top4top.io/p_3535lcxwq0.jpg" alt="Banner Game" width="800"/>
+  <img src="https://c.top4top.io/p_3535cjcz50.png" alt="Banner Game" width="800"/>
 </p>
 
-# Bahasa Indonesia🇮🇩
+# Indonesia🇮🇩
 # Tentang
  > Game ini di ciptakan oleh programer pemula yang bernama rooxJSphire
  > Tujuan geme ini di ciptakan hanya untuk bersenang-senang bukan untuk tujuan ilegal.

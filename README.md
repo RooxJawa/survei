@@ -16,14 +16,14 @@
     sudo apt install python3 python3-pip
     git clone https://github.com/RooxJawa/game
     cd game
-    python3 main.py
+    python3 main.pyc
  # Termux
     pkg update
     pkg install python git     
     pkg install git
     git clone https://github.com/RooxJawa/game
     cd game
-    python main.py
+    python main.pyc
     
 ---
  

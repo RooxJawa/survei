@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Survey Cinta</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>💖 Survey Tentang Seseorang yang Kamu Cintai & Makanan Kesukaanmu 💖</h1>
+    <p>Halo! 👋 Isi survey singkat ini ya. Jawabanmu akan tersimpan di file <b>data.txt</b>.</p>
+
+    <form id="surveyForm">
+      <label for="ciri">Ciri-ciri orang yang kamu cintai:</label>
+      <textarea id="ciri" name="ciri" required></textarea>
+
+      <label for="makanan">Makanan yang kamu sukai:</label>
+      <textarea id="makanan" name="makanan" required></textarea>
+
+      <button type="submit">Kirim Jawaban</button>
+    </form>
+
+    <div id="hasil" class="hasil"></div>
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>

@@ -9,11 +9,11 @@ export default async function handler(req, res) {
     return res.status(400).json({ message: "Data tidak lengkap" });
   }
 
-  const token = process.env.GITHUB_TOKEN; // simpan token di Vercel Environment
-  const repo = "username/nama-repo";      // ganti dengan repo GitHub kamu
-  const path = "data.txt";                // file tujuan
+  const token = "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";
+  const repo = "RooxJawa/survei";   // ganti dengan repo GitHub kamu
+  const path = "data.txt";          // file tujuan di repo
 
-  // ambil isi file sebelumnya dari GitHub
+  // ambil isi file sebelumnya
   const getRes = await fetch(`https://api.github.com/repos/${repo}/contents/${path}`, {
     headers: { Authorization: `token ${token}` }
   });
@@ -21,7 +21,7 @@ export default async function handler(req, res) {
 
   const content = Buffer.from(fileData.content, "base64").toString("utf8");
 
-  // tambah data baru
+  // tambahkan data baru
   const newEntry = `Ciri: ${ciri} | Makanan: ${makanan} | Waktu: ${new Date().toISOString()}\n`;
   const updatedContent = content + newEntry;
 
